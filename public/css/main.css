@@ -1,0 +1,155 @@
+.jumbotron {
+    overflow: auto;
+}
+
+.jumbotron p {
+    font-size: 12px;
+    padding: 2px;
+    margin: 0.5px;
+}
+
+#side-nav {
+	float: left;
+	margin-right: 5%;
+	width: 20%;
+	border-top: 1px solid #acacac;
+	/*border-radius: 5px;*/
+
+}
+
+#side-nav h4 {
+	margin: 10px 0;
+	text-align: center;
+}
+
+#var-num {
+	width: 30%;
+}
+
+#app.jumbotron {
+	border-top: 1px solid #5c5c5c;
+	background-color: #f5f5f5;
+	margin-bottom: 0px;
+	padding-bottom: 27.5px;
+	padding-bottom: 27.5px;
+}
+
+#app .var-info {
+	display: inline-block;
+	margin-right: 2%;
+	border: 1px solid #8b8b8b;
+	border-radius: 3px;
+	padding: 2.5%;
+}
+
+#side-nav .var-link {
+	color: #5f5f5f;
+	cursor: pointer;
+}
+
+#side-nav .var-link:hover {
+	color: #000;
+}
+
+#side-nav .var-del {
+	color: #5f5f5f;
+	cursor: pointer;
+	float: right;
+}
+
+#side-nav .var-del:hover {
+	color: #000;
+}
+
+
+#main-footer {
+	background-color: #3f5d6c;
+	color: #2f2f2f;
+	height: 10px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+
+}
+
+
+#var-info .value-input:first-child input {
+	margin-left: 17.5px;
+}
+
+#var-info .value-input:nth-child(2) input {
+	margin-left: 2.5px;
+}
+
+h2 {
+	margin-left: -2px;
+	margin-top: -20px;
+}
+
+.ind-num {
+	margin-left: 10px;
+}
+
+h2.var-name-input {
+	margin-bottom: 20px;
+}
+
+.for-subs {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #2c2c2c;
+}
+
+.handinput {
+	display: none;
+}
+
+
+button.next-chart, button.prev-chart {
+	margin-top: 15px;
+	margin-right: 15px;
+}
+
+#switch-input {
+	background-color: #3c3c3c;
+	color: #e5e5e5;
+	margin-left: 50px;
+	border: none;
+	border-radius: 3px;
+}
+
+#switch-input:hover {
+	background-color: #e5e5e5;
+	color: #3c3c3c;
+}
+
+.handinput textarea {
+	margin-left: 10px;
+	height: 50px;
+	width: 100px;
+}
+
+.handinput {
+	margin-right: 42.5px;
+}
+
+
+/* March 14 */
+
+/*#ti-info h4 {
+	margin-top: 21px;
+}*/
+
+.ti-block {
+	border-top: 1px black solid;
+	padding: 15px 0px 30px 0px;
+}
+
+.matrix-block {
+	width: 200px;
+}
+
+#forage-matrix .matrix-block-row {
+	width: 30px;
+}
